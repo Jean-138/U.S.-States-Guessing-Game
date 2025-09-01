@@ -24,6 +24,5 @@ If I choose to exit before finishing, a CSV file is generated with the states I 
    ```bash
    python main.py
 
-
-    ## Credits
+## Credits
 This project was completed as part of Dr. Angela Yu's "100 Days of Code: The Complete Python pro Bootcamp" course.
